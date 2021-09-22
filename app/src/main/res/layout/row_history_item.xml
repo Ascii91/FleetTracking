@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvId"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_background_row"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:textSize="16sp"
+        android:textColor="@color/accent"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_background_row"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/tvOrigin"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:gravity="center"
+        android:ellipsize="end"
+        android:textColor="@color/accent"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_background_row"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/tvProvider"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textColor="@color/accent"
+        android:layout_width="100dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_background_row"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/tvTimeDistance"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/accent"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_background_row"
+        android:padding="8dp" />
+
+
+</LinearLayout>

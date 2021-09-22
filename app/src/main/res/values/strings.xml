@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FleetTracking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="map">Map</string>
+    <string name="control">Control</string>
+    <string name="stop_tracking_service">Stop tracking service</string>
+    <string name="start_tracking_service">Start tracking service</string>
+    <string name="location_disabled">Location disabled</string>
+    <string name="enable_location">Please enable Location on your device</string>
+    <string name="open_location_setting">Open location settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_permission">Please enable location permission inside your device settings</string>
+    <string name="activity_recognition_permission">Please enable Activity recognition permission inside your device settings</string>
+    <string name="background_location_permission">Please enable Background location permission inside your device settings</string>
+    <string name="play_services_required">Google play services required</string>
+    <string name="fleet_tracking_running">FleetTracker is running in background</string>
+    <string name="location_tracking_paused">Location tracking paused</string>
+    <string name="enable_location_permission">Please enable location permission from phone settings</string>
+    <string name="enable_activity_recognition">Please enable activity recognition permission from phone settings</string>
+    <string name="batery_saver_is_on">Battery saver is on, disabling FleetTracker</string>
+    <string name="turn_off_batery_saver">Turn off Battery Saver in Settings to reconnect</string>
+    <string name="enable_alarm_trigger">Enable alarm trigger</string>
+    <string name="disable_alarm_trigger">Disable alarm trigger</string>
+    <string name="disable_point_filtering">Disable point filtering</string>
+    <string name="enable_point_filtering">Enable point filtering</string>
+</resources>

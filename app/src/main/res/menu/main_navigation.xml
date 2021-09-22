@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_control"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:title="@string/control" />
+
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/map" />
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="@string/history" />
+</menu>
